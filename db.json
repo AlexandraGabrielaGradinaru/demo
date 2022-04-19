@@ -3,15 +3,5 @@
     "id": 1, 
     "firstName": "Georgia",
     "lastName":"Fili"
-  },
-  "user": { 
-    "id": 2, 
-    "firstName": "Liliana",
-    "lastName":"Georgiana"
-  },
-  "user": { 
-    "id": 3, 
-    "firstName": "Lili",
-    "lastName":"G"
   }
 }
